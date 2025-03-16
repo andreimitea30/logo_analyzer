@@ -1,7 +1,7 @@
 # LOGO SIMILARITY
 
 The program was designed to extract websites from a dataframe in order to create groups 
-of logos from different companies keeping track of colours, feelings and other characteristics.
+of logos from different companies keeping track of colors, feelings and other characteristics.
 
 ## COMMAND LINE ARGUMENTS AND USAGE
 
