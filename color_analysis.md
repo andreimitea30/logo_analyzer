@@ -1,0 +1,400 @@
+# Logo Main Color Analysis
+
+This document groups logos by their closest broad color category.
+
+## Red Logos
+
+- **aamco-councilbluffs.com.png**
+- **accelltherapy.com.au.png**
+- **airbnb.rs.png**
+- **alosindustrials.com.png**
+- **altengt.com.png**
+- **analytik-jena.fr.png**
+- **aon.lt.png**
+- **avia.ch.png**
+- **avon.com.sa.png**
+- **bauermedia.no.png**
+- **biothanesolutions.com.png**
+- **canonburgos.com.png**
+- **cvjm-pfalz.de.png**
+- **dertour.sk.png**
+- **dopplerumbrellas.com.au.png**
+- **edenredrewards.co.in.png**
+- **educab.com.au.png**
+- **einhell.ba.png**
+- **entergy-neworleans.com.png**
+- **fimacf.africa.png**
+- **fitness4homesuperstore.com.png**
+- **flesan.com.pe.png**
+- **fluidmasteruk.com.png**
+- **future-x.at.png**
+- **getscsadmin.com.png**
+- **glintinc.com.png**
+- **gracehomes.us.png**
+- **gs1.at.png**
+- **gwaliasweets.ca.png**
+- **heliosstrategia.pl.png**
+- **husse.hu.png**
+- **icafalinmobiliaria.cl.png**
+- **isuzuhanoi.com.png**
+- **k-startupcenter.org.png**
+- **kewpie.com.sg.png**
+- **kilewswest.com.png**
+- **krugerkaldnes.no.png**
+- **landermitsubishi.com.au.png**
+- **mapfre.pr.png**
+- **mercanta.de.png**
+- **miniso.nc.png**
+- **msig-asia.com.png**
+- **nerdsonsite.co.za.png**
+- **papajohnsquebec.ca.png**
+- **richs.co.uk.png**
+- **salvationarmyconcordca.org.png**
+- **shahshalalfood.com.png**
+- **siebtechnik-tema.cn.png**
+- **skssweden.se.png**
+- **spiegse.com.png**
+- **synergie.com.png**
+- **teknoware.ae.png**
+- **thisissowgood.com.png**
+- **titancontainers.co.nz.png**
+- **toshiba-water.com.png**
+- **trijit.uk.png**
+- **tryg.com.png**
+- **veolia.com.ru.png**
+- **viacon.no.png**
+- **vitalsauna.eu.png**
+- **warmupdeutschland.de.png**
+- **wingarc.com.au.png**
+- **wordans.de.png**
+- **wuerth.com.hr.png**
+- **wurth-international.com.png**
+
+---
+
+## Orange Logos
+
+- **buffalotours.es.png**
+- **casaaurorasupermercados.com.br.png**
+- **cdu-aldenhoven.de.png**
+- **demetercs.eu.png**
+- **ekartlogistics.in.png**
+- **foxinabox.mx.png**
+- **gotchateausa.com.png**
+- **gulf.no.png**
+- **le-tech.co.uk.png**
+- **neposystem.me.png**
+- **nobleprog.mx.png**
+- **ophitusa.com.png**
+- **orient-food.sk.png**
+- **premiumproperties.com.png**
+- **ptsv-hof-minigolf.de.png**
+- **regalsprings.com.mx.png**
+- **rjelinek.cl.png**
+- **seasonsrehab.in.png**
+- **sitech-ohio.com.png**
+- **sto.hr.png**
+- **stoag.ch.png**
+- **stoitalia.it.png**
+- **svncredit.ro.png**
+- **tchibo.cz.png**
+- **tracybookshop.com.png**
+- **truemoney.com.vn.png**
+- **webster.nl.png**
+- **whirlpool.com.hk.png**
+- **xtransfer.cn.png**
+
+---
+
+## Yellow Logos
+
+- **actemium.ch.png**
+- **applebees.com.gt.png**
+- **asendia.de.png**
+- **fosterfarmsfoodservice.com.png**
+- **hertz.com.ge.png**
+- **julis-sh.de.png**
+- **pakuacanada.com.png**
+
+---
+
+## Green Logos
+
+- **adra.org.pe.png**
+- **allianzim.com.png**
+- **amtrakvacations.com.au.png**
+- **ardex.at.png**
+- **aspenpharma.es.png**
+- **azets.ie.png**
+- **batistareisfloresonline.com.br.png**
+- **bbraun.rs.png**
+- **bellaplanta.de.png**
+- **billygraham.ca.png**
+- **bnpparibasdeveloppement.com.png**
+- **bosch-industry-consulting.com.png**
+- **catsprotectionshop.co.uk.png**
+- **cdlcampina.org.br.png**
+- **cdvielectronics.com.png**
+- **clarksonhyde.it.png**
+- **compo.de.png**
+- **crocssa.co.za.png**
+- **dahmira.kz.png**
+- **deprag.cz.png**
+- **dhirajsonsonline.com.png**
+- **dilmahtea.co.uk.png**
+- **drekopf-kanalservice.de.png**
+- **ebay.cn.png**
+- **ecochillers.net.png**
+- **eftech-international.com.png**
+- **engenmauritius.com.png**
+- **ercagroup.com.tr.png**
+- **eurofinsfoodtesting.nl.png**
+- **flashbay.ca.png**
+- **fordmediacenter.nl.png**
+- **glamsmile.be.png**
+- **grantthornton.com.sv.png**
+- **grupointexa.co.png**
+- **hendersonkyedc.com.png**
+- **ilmercatoambacht.nl.png**
+- **implantcenter-dentistry.co.uk.png**
+- **janegal.sk.png**
+- **jetfriorefrigeracao.com.br.png**
+- **kapanfastigheter.se.png**
+- **kind-der-stadt.at.png**
+- **kokuyo-furniture.com.my.png**
+- **linexcoloradosprings.com.png**
+- **lww.co.uk.png**
+- **matutis.de.png**
+- **medef-alsace.com.png**
+- **menicon.de.png**
+- **meniconamerica.com.png**
+- **metagenics.co.jp.png**
+- **misterwhat.nl.png**
+- **myron.ca.png**
+- **nhszketpo.hu.png**
+- **pigtailsandcrewcutsfranchise.com.png**
+- **pkfcabrera.com.png**
+- **pkfcaribbean.com.png**
+- **rheine.schule.png**
+- **rotary-bulgaria.org.png**
+- **rsm.lu.png**
+- **rutscherlebnis.at.png**
+- **seitenbachershop.com.png**
+- **snapologyfranchising.com.png**
+- **specialistnutrition.us.png**
+- **stocanada.com.png**
+- **takab.nu.png**
+- **thebodyshop.si.png**
+- **vbh.be.png**
+- **venaenergy.co.jp.png**
+- **virtual-reality.school.png**
+- **vkf-renzel.com.tr.png**
+- **wedos.com.png**
+- **yonyou.com.hk.png**
+- **yord.pl.png**
+- **zhcpa.cn.png**
+
+---
+
+## Blue Logos
+
+- **abc-autoglas.de.png**
+- **adlatus-nordwestschweiz.ch.png**
+- **affinitynonprofits.com.png**
+- **ajas.cz.png**
+- **anderson-negele-gmbh.ru.png**
+- **astreitalia.it.png**
+- **bcurelaser.co.il.png**
+- **bluecardagency.ru.png**
+- **bmw-motorrad-euromotos-lyon.fr.png**
+- **boxful.com.tw.png**
+- **buydaikin.ro.png**
+- **cgparivarconstruction.com.png**
+- **childrenandteendentalfl.com.png**
+- **colorflexpackaging.com.png**
+- **culligandenkerwaterconditioning.com.png**
+- **customneon.com.au.png**
+- **daikincareers.com.png**
+- **decathlonkz.com.png**
+- **dennert.pl.png**
+- **elderhouseadc.com.png**
+- **eresrelocation.es.png**
+- **experian.in.png**
+- **fainvestors.com.png**
+- **fmc-mexico.com.png**
+- **fortprousa.com.png**
+- **furuno.fr.png**
+- **h2oinnovation.mx.png**
+- **howdengroupholdings.com.png**
+- **howdensafetysolutions.com.png**
+- **isic.de.png**
+- **kalorimeta-singen.de.png**
+- **krofian.de.png**
+- **laborelec.com.png**
+- **lcvesta.nl.png**
+- **mazda-autohaus-hellwig-hoyerswerda.de.png**
+- **metlifetakealongdental.com.png**
+- **mondialparebrise.re.png**
+- **monster.ie.png**
+- **msd-animal-health.pt.png**
+- **nidek.com.png**
+- **ohb-system.de.png**
+- **peach.immo.png**
+- **petercem-sensors.com.png**
+- **pilotpen.co.th.png**
+- **plameco-hannover.de.png**
+- **prioritymanagementscotland.co.uk.png**
+- **secureparkinghi.com.png**
+- **selgen.eu.png**
+- **siiora.org.png**
+- **sofrecogroup.com.png**
+- **solatube.se.png**
+- **soneparthailand.com.png**
+- **spg-motoren.de.png**
+- **strabag-pfs.com.png**
+- **sunnybrookprintshop.ca.png**
+- **tapflo.co.za.png**
+- **tenneco.co.jp.png**
+- **tgmresearch.vn.png**
+- **ubicast.tv.png**
+- **uxbistart.com.png**
+- **vantagepoint.co.id.png**
+- **ymcalouisville.org.png**
+
+---
+
+## White Logos
+
+- **advantisengineering.com.png**
+- **aiesec.ba.png**
+- **apexdynamicsgermany.de.png**
+- **atalian.pl.png**
+- **berlitz-augsburg.de.png**
+- **bigfootdigital.co.uk.png**
+- **bioderma.co.za.png**
+- **cardif.pl.png**
+- **ccusa.co.nz.png**
+- **cedstone.ca.png**
+- **chauffeurstelefoon.nl.png**
+- **clearblueionizer.be.png**
+- **deheus.com.vn.png**
+- **domcortraffic.ca.png**
+- **duraclean.us.png**
+- **ecaas.com.png**
+- **equansservices.com.png**
+- **filterteknik.dk.png**
+- **hansa-flex.com.cn.png**
+- **harigmfg.com.png**
+- **hondabintang.com.png**
+- **hps-guns.de.png**
+- **inbeat.co.png**
+- **kantar.com.tw.png**
+- **keasyfit.it.png**
+- **keytitlegroupsa.com.png**
+- **kuestarubber.com.png**
+- **mariagefreres.co.jp.png**
+- **maxus-norddeutschland.de.png**
+- **meggle-bakery.com.png**
+- **melgarcases.com.png**
+- **mitsubishielectric.cz.png**
+- **modern-heads.com.png**
+- **movingstarsinc.com.png**
+- **naturesrewardcoloredcauliflower.com.png**
+- **nexi.hr.png**
+- **nexicentraleurope.com.png**
+- **nexigroup.com.png**
+- **overheaddoorbrookfield.com.png**
+- **pacificinfotech.co.uk.png**
+- **pirtek.be.png**
+- **pmsgen.com.png**
+- **rationalstock.es.png**
+- **rcchurch.com.png**
+- **remax-go.com.ar.png**
+- **renaultsanzhispano.es.png**
+- **scholpp.it.png**
+- **shelterstation.com.au.png**
+- **smittysmb.ca.png**
+- **subaru.jp.png**
+- **tts-group.at.png**
+- **whatsonsaudiarabia.com.png**
+- **wuerthmarket.ru.png**
+- **ymca-cnw.org.png**
+- **zkteco.vn.png**
+
+---
+
+## Black Logos
+
+- **adeccogroupfoundationus.org.png**
+- **albatroslogistic.ma.png**
+- **algeco.sk.png**
+- **allbranded.de.png**
+- **amway.at.png**
+- **anotherbrokeneggfranchise.com.png**
+- **arkaybeverages.com.png**
+- **attijariwafabank.com.eg.png**
+- **axa.dz.png**
+- **babble.com.png**
+- **baywa-re.es.png**
+- **bimeda.ie.png**
+- **bonprix.nl.png**
+- **budatec.de.png**
+- **camesoluciones.com.png**
+- **cfmotoperu.com.png**
+- **cinnabonrussia.com.png**
+- **citychain.co.th.png**
+- **countryroadsford.net.png**
+- **cpi-print.com.png**
+- **cubcadet.fr.png**
+- **designmehair.cz.png**
+- **dolcevita.ca.png**
+- **dulux.pl.png**
+- **freeportwestselfstorage.com.png**
+- **habitat.hu.png**
+- **heydudeshoes.es.png**
+- **hometowninsurance.us.png**
+- **humanasecondhand.se.png**
+- **hyundaicentralsales.com.png**
+- **immunospot.eu.png**
+- **internationalsos.co.jp.png**
+- **isover.hu.png**
+- **jdimmigration.es.png**
+- **kawasaki-seufert.de.png**
+- **kern-liebers.it.png**
+- **kumon.com.hk.png**
+- **lamborghini-zh.ch.png**
+- **leekeswindows.co.uk.png**
+- **logicvapes.co.uk.png**
+- **lunarclient.com.png**
+- **luxaflexproject-scandinavia.com.png**
+- **malerasstockholm.se.png**
+- **mantruckmerchandise.co.uk.png**
+- **moorestoke.co.uk.png**
+- **msmode.de.png**
+- **mycabin.ie.png**
+- **nikon.com.sg.png**
+- **nissanmanufacturing.com.png**
+- **pamarco.co.uk.png**
+- **pcllawyersfrankston.com.au.png**
+- **poliform-spb.ru.png**
+- **pussyspace.net.png**
+- **reedglobal.hu.png**
+- **repsolresourcesuk.com.png**
+- **rubiomonocoat.com.au.png**
+- **sackit.no.png**
+- **sans-sans.com.my.png**
+- **sixty8.ro.png**
+- **skodanews.de.png**
+- **stampinup.ca.png**
+- **techmatrix-asia.com.png**
+- **terradat.co.uk.png**
+- **toofacedcosmetics.jp.png**
+- **toupret.ch.png**
+- **toyotaakkoyunlu.com.tr.png**
+- **urmet.com.br.png**
+- **vispiron.systems.png**
+- **wwfcz.org.png**
+- **xwiftracingevents.be.png**
+
+---
+
